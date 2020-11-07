@@ -4,9 +4,9 @@
 
 ## 클로드 섀넌
 
-![클로드 섀넌](http://www.jobitoday.com/news/photo/201912/3_8342_9774_4219.jpg)
+![클로드 섀넌](https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg)
 
-클로드 섀넌. 출처: [일자리 투데이](http://www.jobitoday.com/news/articleView.html?idxno=15853)
+클로드 섀넌. 출처: [위키피디아](https://commons.wikimedia.org/wiki/File:ClaudeShannon_MFO3807.jpg)
 
 1936년 MIT를 졸업하고 전기공학으로 석사과정을 공부하던 클로드 섀넌(Claude Shannon)은 초기 아날로그 컴퓨터인 미분해석기를 연구하고 있었다. 섀넌은 특히 미분해석기의 전자 릴레이에 큰 흥미가 있었다. 전자 릴레이는 간단하게 말해서는 ON/OFF가 있는 일종의 스위치인데, 거실 불을 켜고 끌 수 있는 전등 스위치와는 다르게 이 릴레이는 자동으로 ON/OFF를 할 수 있게 해주는 전자부품이다. 내부에는 전자석이 있어서 전류가 걸리면 자성이 생겨서 스위치가 ON이 되며 전류가 없으면 자성이 없어져서 스위치가 OFF가 된다.
 
