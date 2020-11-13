@@ -9,6 +9,7 @@
 트랜지스터의 이해 ②, 이건한, 테크월드뉴스(http://www.epnc.co.kr/news/articleView.html?idxno=83273)
 컴퓨터의 구조는 어떻게 생겼을까, 전우정, 과학기술정보통신부, https://m.blog.naver.com/with_msip/221981730449
 '디지털의 아버지' 클로드 섀넌, 제3의 물결을 이끌다, 일자리투데이, http://www.jobitoday.com/news/articleView.html?idxno=15853
+TMItalk. 튜링머신의 이해, 유투브-주니온TV 아무거나연구소, https://www.youtube.com/watch?v=BOr1waCdv3U&t=232s
 
 
 ## 챕터 2 - 컴퓨터 구조
