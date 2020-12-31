@@ -3,6 +3,7 @@ authors = ["Jongha Kim"]
 language = "ko"
 multilingual = false
 src = "src"
-title = "부트캠퍼를 위한 컴퓨터 과학"
+title = "웹 부트캠퍼를 위한 컴퓨터 과학"
+
 [output.html]
 theme = "src/theme"
