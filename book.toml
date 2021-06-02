@@ -8,6 +8,8 @@ title = "웹 부트캠퍼 개발자를 위한 컴퓨터 과학"
 [output.html]
 theme = "src/theme"
 site-url = "/csbooks/"
+git-repository-url = "https://www.wisewiredbooks.com"
+git-repository-icon = "fa-home"
 
 
 [build]

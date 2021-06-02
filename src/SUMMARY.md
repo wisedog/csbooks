@@ -1,4 +1,5 @@
 # Summary
+
 - [들어가기에 앞서](./README.md)
 - [컴퓨터의 등장](./ch1-computer-science-intro/index.md)
   - [튜링머신](./ch1-computer-science-intro/section1-turing-machine.md)
@@ -23,7 +24,7 @@
   - [개요](./ch4-http/01-intro.md)
   - [웹 리소스 - URI/URN]()
   - [HTTP 프로토콜 상세]()
-  - [상태코드]()
+  - [상태 코드](./ch4-http/04-status-code.md)
   - [헤더]()
   - [세션과 쿠키]()
   - [보안]()
